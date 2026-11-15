@@ -1,0 +1,5 @@
+.venv/
+__psycache__/
+.ipynb_checkpoints/
+data/
+.env
